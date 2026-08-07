@@ -5,7 +5,7 @@ expenditure affect GDP per capita in Bangladesh (1988–2022), using a multiple
 linear regression model.
 
 **Author:** Azka Aziz
-**Course:** Econometrics — Prof. Sadaf
+**Course:** Econometrics 
 
 ## Research Question
 
