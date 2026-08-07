@@ -5,6 +5,7 @@ expenditure affect GDP per capita in Bangladesh (1988–2022), using a multiple
 linear regression model.
 
 **Author:** Azka Aziz
+
 **Course:** Econometrics 
 
 ## Research Question
@@ -23,7 +24,7 @@ ln_GDP_per_capita = β₀ + β₁(Illiteracy_rate) + β₂(Child_labour_rate) + 
 
 ## Data
 
-File: [`data/bangladesh_gdp_dataset.xlsx`](data/bangladesh_gdp_dataset.xlsx) — annual panel, 1988–2022.
+File: [`data/bangladesh_gdp_dataset.xlsx`](data/Dataset.xlsx) — annual panel, 1988–2022.
 
 | Variable | Description | Source |
 |---|---|---|
