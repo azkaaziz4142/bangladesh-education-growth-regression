@@ -24,7 +24,7 @@ ln_GDP_per_capita = β₀ + β₁(Illiteracy_rate) + β₂(Child_labour_rate) + 
 
 ## Data
 
-File: [`data/bangladesh_gdp_dataset.xlsx`](data/Dataset.xlsx) — annual panel, 1988–2022.
+File: [`data/Dataset.xlsx`](data/Dataset.xlsx) — annual panel, 1988–2022.
 
 | Variable | Description | Source |
 |---|---|---|
