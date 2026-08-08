@@ -49,12 +49,11 @@ File: [`data/Dataset.xlsx`](data/Dataset.xlsx) annual panel, 1988–2022.
 
 ```
 .
-├── data/
-│   └── bangladesh_gdp_dataset.xlsx     # Combined dataset used for the regression
-├── presentation/
-│   └── FA24-BBD-023-SEC-A.pptx         # Full project slide deck
-├── scripts/
-│   └── build_dataset.py                # Script to pull/rebuild the World Bank & UNESCO portions of the data
+├── Dataset.xlsx              # Combined dataset used for the regression (1988–2022)
+├── Presentation.pptx         # Full project slide deck
+├── regression_analysis.py    # Script that runs the OLS regression and generates diagnostics
+├── Diagnostic Plots.png      # 4-panel regression diagnostic plots (Residuals vs Fitted, Q-Q, Scale-Location, Leverage)
+├── Regression Summary.txt    # Plain-text regression output (coefficients, std errors, t-stats, p-values)
 └── README.md
 ```
 
