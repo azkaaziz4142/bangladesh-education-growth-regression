@@ -16,8 +16,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from scipy import stats
 
-DATA_PATH = "data/bangladesh_gdp_dataset.xlsx"
-OUT_DIR = "figures"
+DATA_PATH = "Dataset.xlsx"
+OUT_DIR = "."
 
 import os
 os.makedirs(OUT_DIR, exist_ok=True)
