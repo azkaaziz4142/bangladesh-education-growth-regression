@@ -43,6 +43,7 @@ File: [`data/Dataset.xlsx`](data/Dataset.xlsx) annual panel, 1988–2022.
 - **Child labor rate**: not statistically significant in this model (coefficient ≈ 0.00585).
 - **Education expenditure**: not statistically significant (coefficient ≈ -0.03246), suggesting its effect may be delayed or require more targeted investment.
 - Model diagnostics (residuals vs. fitted, Q-Q, scale-location, leverage) support the model's core assumptions.
+-  ![Diagnostic Plots](Diagnostic%20Plots.png) 
 
 ## Repository Structure
 
