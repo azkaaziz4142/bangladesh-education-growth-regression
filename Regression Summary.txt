@@ -1,0 +1,10 @@
+OLS Regression Results
+Dependent variable: ln_GDP_per_capita
+
+Variable                      Coef     Std Err         t     P>|t|
+Intercept                  8.11051     0.56896    14.255    0.0000
+Illiteracy_rate           -0.03273     0.00282   -11.606    0.0000
+Child_labour_rate          0.00585     0.02329     0.251    0.8033
+Education_expenditure     -0.03246     0.21546    -0.151    0.8812
+
+N = 35   R-squared = 0.9478   Adj. R-squared = 0.9428
